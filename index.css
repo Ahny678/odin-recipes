@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(73, 22, 22);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: palevioletred;
+    text-align: center;
+    font-size:200px;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+li{
+    float: left;
+    margin-left: 90px;
+    font-weight: 800;
+    font-size: 60px;
+
+}
+
+a{
+    color: white;
+}
