@@ -10,3 +10,4 @@ Each recipe page provides:
 
 For the CSS aspect:
 -The index page was styled with a brown aesthetic with lighter texts
+-The recipe pages now have a bubblegum green aesthetic with darker texts
