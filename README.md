@@ -7,3 +7,6 @@ Each recipe page provides:
 - ingredients needed
 - steps to follow
 -a link back to the home(index) page
+
+For the CSS aspect:
+-The index page was styled with a brown aesthetic with lighter texts
