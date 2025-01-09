@@ -10,7 +10,7 @@ h1{
 
 h2{
     font-size: 60px;
-   
+    margin-bottom: 2px;
 }
 
 img{
@@ -20,7 +20,7 @@ img{
     border: 14px green ridge;
 }
 .right{
-    margin-bottom: 2px;
+    
     border: 5px rgb(182, 11, 5) double;
     
 }
@@ -57,7 +57,7 @@ strong{
 a{
     text-decoration: none;
     font-size: 60px;
-    background-color: purple;
+    background-color: rgb(211, 143, 211);
     color: white;
     border-radius: 20px;
     padding: 10px;
