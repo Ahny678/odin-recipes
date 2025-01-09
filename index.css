@@ -1,27 +1,44 @@
 *{
-    background-color: rgb(73, 22, 22);
+    background-color: rgb(61, 26, 13);
     font-family: 'Times New Roman', Times, serif;
 }
+/*
+paddding, margin, border, bg color, 
 
+*/
 h1{
-    color: palevioletred;
+    background-color: rgb(240, 166, 191);
+    color: black;
+    padding: 18px 24px;
+    margin: 0 auto;
     text-align: center;
     font-size:200px;
 }
 
+ul{
+    display: inline-block;
+    background-color: black;
+    padding: 20px;
+    border: 10px dotted red;
+    border-radius: 20px;
+    width: 98%;
+    margin: 10px auto;
+}
+
 a{
     text-decoration: none;
+    color: black;
     
 }
 
 li{
-    float: left;
-    margin-left: 90px;
+    padding: 24px;
+    margin-left:50px;
+    
+    display: inline;    
     font-weight: 800;
     font-size: 60px;
+     
 
-}
 
-a{
-    color: white;
 }
